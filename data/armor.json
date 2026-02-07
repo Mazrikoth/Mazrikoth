@@ -1,0 +1,22 @@
+{
+  "armor": [
+    {
+      "id": "leather",
+      "name": "Leather Armor",
+      "defense": "11",
+      "notes": "Light armor made from hardened leather."
+    },
+    {
+      "id": "chainmail",
+      "name": "Chain Mail",
+      "defense": "16",
+      "notes": "Interlocking rings for strong protection."
+    },
+    {
+      "id": "mage_robes",
+      "name": "Mage Robes",
+      "defense": "10",
+      "notes": "Light robes embroidered with runes."
+    }
+  ]
+}

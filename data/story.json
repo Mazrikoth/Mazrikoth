@@ -1,0 +1,69 @@
+{
+  "start": "intro",
+  "nodes": {
+    "intro": {
+      "text": "A shimmering gate rises from the Evermore marsh. [image1.png] Do you step through?",
+      "choices": [
+        {
+          "label": "Step through the gate",
+          "next": "crossing"
+        },
+        {
+          "label": "Circle the gate and observe",
+          "next": "observe"
+        }
+      ]
+    },
+    "crossing": {
+      "text": "You cross into Evermore. The air smells of rain and old magic. A cloaked guide beckons you forward.",
+      "choices": [
+        {
+          "label": "Follow the guide",
+          "next": "guide"
+        },
+        {
+          "label": "Explore the forest edge",
+          "next": "forest"
+        }
+      ]
+    },
+    "observe": {
+      "text": "You study the runes and notice a hidden crest of DragonZMind etched into the stone.",
+      "choices": [
+        {
+          "label": "Trace the crest",
+          "next": "guide"
+        },
+        {
+          "label": "Take a different path",
+          "next": "forest"
+        }
+      ]
+    },
+    "guide": {
+      "text": "The guide offers you a choice of path: the Ember Road or the Silver River.",
+      "choices": [
+        {
+          "label": "Ember Road",
+          "next": "ember"
+        },
+        {
+          "label": "Silver River",
+          "next": "river"
+        }
+      ]
+    },
+    "forest": {
+      "text": "Whispers in the trees warn of unseen watchers. You prepare your gear and press on.",
+      "choices": []
+    },
+    "ember": {
+      "text": "Heat waves rise from the Ember Road. In the distance, a fortress glows with molten light.",
+      "choices": []
+    },
+    "river": {
+      "text": "The Silver River hums with enchantment. Your journey continues along its radiant banks.",
+      "choices": []
+    }
+  }
+}

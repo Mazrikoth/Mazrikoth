@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "id": "image1",
+      "filename": "image1.png",
+      "label": "Evermore Gate",
+      "notes": "Shown when the player arrives in Evermore."
+    }
+  ]
+}

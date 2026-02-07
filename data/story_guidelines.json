@@ -1,0 +1,19 @@
+{
+  "guidelines": [
+    {
+      "id": "tone",
+      "title": "Tone",
+      "text": "High fantasy with heroic stakes, mysterious magic, and DragonZMind lore woven through every arc."
+    },
+    {
+      "id": "choices",
+      "title": "Choices",
+      "text": "Each scene presents 2-4 meaningful choices with clear consequences."
+    },
+    {
+      "id": "image_tokens",
+      "title": "Image Tokens",
+      "text": "Insert [image1.png] in story text to display the referenced image at that moment."
+    }
+  ]
+}

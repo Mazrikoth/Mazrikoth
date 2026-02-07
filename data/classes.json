@@ -1,0 +1,19 @@
+{
+  "classes": [
+    {
+      "id": "warrior",
+      "name": "Warrior",
+      "description": "Frontline fighter trained in battle tactics and weapon mastery."
+    },
+    {
+      "id": "mage",
+      "name": "Mage",
+      "description": "Arcane spellcaster who bends the elements to their will."
+    },
+    {
+      "id": "ranger",
+      "name": "Ranger",
+      "description": "Wilderness tracker skilled with ranged weapons and survival."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "healing_potion",
+      "name": "Healing Potion",
+      "effect": "Restore 2d4 + 2 HP",
+      "notes": "A crimson vial blessed by Evermore healers."
+    },
+    {
+      "id": "torch",
+      "name": "Torch",
+      "effect": "Provides light",
+      "notes": "Essential for exploring dark ruins."
+    },
+    {
+      "id": "lockpick",
+      "name": "Lockpick Set",
+      "effect": "Gain advantage on lock checks",
+      "notes": "Fine tools for the careful rogue."
+    }
+  ]
+}

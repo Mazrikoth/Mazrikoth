@@ -1,0 +1,22 @@
+{
+  "weapons": [
+    {
+      "id": "longsword",
+      "name": "Longsword",
+      "damage": "1d8",
+      "notes": "Versatile steel blade favored by warriors."
+    },
+    {
+      "id": "shortbow",
+      "name": "Shortbow",
+      "damage": "1d6",
+      "notes": "Reliable ranged weapon for scouts and rangers."
+    },
+    {
+      "id": "staff",
+      "name": "Arcane Staff",
+      "damage": "1d6",
+      "notes": "Focus for spells and defensive magic."
+    }
+  ]
+}

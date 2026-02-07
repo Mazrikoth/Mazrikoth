@@ -1,0 +1,19 @@
+{
+  "races": [
+    {
+      "id": "human",
+      "name": "Human",
+      "description": "Versatile and ambitious, found throughout Evermore."
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "description": "Graceful and long-lived, attuned to ancient magic."
+    },
+    {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "description": "Sturdy and resilient, masters of stone and steel."
+    }
+  ]
+}
